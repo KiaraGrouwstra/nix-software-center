@@ -49,7 +49,7 @@ pkgs.stdenv.mkDerivation rec {
     libxml2
     openssl
     wayland
-    gnome.adwaita-icon-theme
+    papirus-icon-theme
     desktop-file-utils
     nixos-appstream-data
   ];
